@@ -1,0 +1,95 @@
+
+.padding{
+    max-width: 1410px;
+    width: 100%;
+    margin: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media screen and (max-width: 1920px) {
+    .padding{
+        max-width: 1410px;
+        width: 100%;
+        margin: auto;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (max-width: 1535px) {
+    .padding{
+        max-width: 1232px;
+        width: 100%;
+        margin: auto;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .padding{
+        max-width: 1092px;
+        width: 100%;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 1281px) {
+    .padding{
+        max-width: 1032px;
+        width: 100%;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .padding{
+        max-width: 532px;
+        width: 100%;
+        margin: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .padding{
+        max-width: 432px;
+        width: 100%;
+        margin: auto;
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+}
+ 
+.section{
+    
+    max-width: 1824px;
+    margin: auto;
+    width: 100%;
+}
+ 
+.heading{
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 1.5;
+    color: white;
+}
+ 
+.desc{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #ADABB7;
+}
+ 
+.footerHeading{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: white;
+    
+}
+
+ 
