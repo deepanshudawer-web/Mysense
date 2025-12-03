@@ -18,8 +18,7 @@ const HeroSection = () => {
               We&apos;d Love to Hear From You
             </h1>
             <p className="max-w-[604px] mx-auto font-medium text-sm sm:text-base md:text-lg lg:text-xl text-gray-600 px-2 sm:px-0">
-              We&apos;re here to provide you with the support you need. Drop us a
-              message and we&apos;ll get back to you promptly.
+              We're here to provide you with the support you need. Drop us a message and Deepanshu and Vishal will get back to you promptly.
             </p>
           </div>
  
