@@ -9,7 +9,7 @@ const Banner = () => {
           Contact Us
         </div>
         <div className="pt-2 sm:pt-3 md:pt-4 lg:pt-[20px] font-medium text-center max-w-full md:max-w-[700px] lg:max-w-[800px] text-xs sm:text-sm md:text-base text-[#2B2B2B] px-2">
-          For inquiries, assistance, or feedback, please feel free to reach out.
+          For inquiries please feel free to reach out Deepanshu and Vishal.
         </div>
       </div>
     </div>
